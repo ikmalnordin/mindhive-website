@@ -530,6 +530,38 @@ h3 {
   color: #B4E6C5;
 }
 
+.badge-seal {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 7px 16px 7px 10px;
+  border-radius: var(--radius-pill);
+  background-color: var(--badge-bg);
+  border: 1px solid var(--badge-border);
+  color: var(--badge-text);
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.25;
+  box-shadow: 0 10px 22px -16px rgba(20, 90, 50, 0.5);
+}
+
+.badge-seal__icon {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  color: var(--badge-text);
+}
+
+.badge-seal--dark {
+  background-color: rgba(189, 226, 202, 0.14);
+  border-color: rgba(189, 226, 202, 0.3);
+  color: #B4E6C5;
+}
+
+.badge-seal--dark .badge-seal__icon {
+  color: #B4E6C5;
+}
+
 /* --------------------------------------------------------------------------
    Hero (Editorial Paper Canvas inspired by aiboostcenter.com)
    -------------------------------------------------------------------------- */
