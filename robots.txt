@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mindhive.my/sitemap.xml
+Sitemap: https://ikmalnordin.github.io/mindhive-website/sitemap.xml
