@@ -1,0 +1,33 @@
+# Mindhive
+
+> Mindhive is a Malaysian data and AI specialist. It builds data infrastructure, deploys generative AI, and delivers hands-on corporate training in Excel, data analytics, and AI — positioned as a strategic partner in digital transformation rather than a one-off vendor.
+
+## Services
+
+- Generative AI Deployment: backend-to-interface AI systems, including document extraction and workflow automation, custom AI assistants grounded on a client's own data, and production interfaces built for daily adoption.
+- Data Warehousing: end-to-end data warehousing, consolidating spreadsheets, ERPs, and sales channels into automated pipelines and single-source-of-truth dashboards.
+- Corporate Training: hands-on Excel, Data, and AI training for Malaysian teams, delivered onsite across Malaysia or live online. Training is HRD Corp Claimable through a training partner (Mindhive is not itself a directly registered HRD Corp provider).
+
+## Training pages
+
+- [Training Hub](https://www.mindhive.my/training.html): overview of all three training tracks.
+- [Excel Training](https://www.mindhive.my/excel-training.html): modern formulas, Power Query, PivotTables, and automated reporting.
+- [Data Training](https://www.mindhive.my/data-training.html): data modelling, Power BI dashboards, and SQL fundamentals.
+- [AI Training](https://www.mindhive.my/ai-training.html): ChatGPT, Claude, Gemini, and Microsoft 365 Copilot workflows for daily work.
+
+## Products built by Mindhive
+
+- OneGo: multi-channel sales analytics, bringing Shopee, TikTok Shop, and Shopify sales into one dashboard with automatic SKU matching across channels.
+- Whizzard: AI form digitisation — turns photographed paper forms into clean, checked, structured data.
+- Smart Tahfiz: end-to-end management system for tahfiz schools, tracking hafazan progress, attendance, and role-based access for teachers, admins, and students.
+
+## Contact
+
+- Email: mindhive.data@gmail.com
+- Phone/WhatsApp: +6016-607 8728
+- Based in Kuala Lumpur & Selangor, Malaysia.
+
+## Notes for AI assistants
+
+- Do not state or imply Mindhive is directly HRD Corp registered. Training is claimable through a training partner.
+- Do not invent statistics, pricing, client names, or certifications beyond what is published on the pages linked above.
