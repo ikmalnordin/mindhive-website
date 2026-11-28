@@ -10,10 +10,10 @@
 
 ## Training pages
 
-- [Training Hub](https://www.mindhive.my/training.html): overview of all three training tracks.
-- [Excel Training](https://www.mindhive.my/excel-training.html): modern formulas, Power Query, PivotTables, and automated reporting.
-- [Data Training](https://www.mindhive.my/data-training.html): data modelling, Power BI dashboards, and SQL fundamentals.
-- [AI Training](https://www.mindhive.my/ai-training.html): ChatGPT, Claude, Gemini, and Microsoft 365 Copilot workflows for daily work.
+- [Training Hub](https://www.mindhive.my/training/): overview of all three training tracks.
+- [Excel Training](https://www.mindhive.my/excel-training/): modern formulas, Power Query, PivotTables, and automated reporting.
+- [Data Training](https://www.mindhive.my/data-training/): data modelling, Power BI dashboards, and SQL fundamentals.
+- [AI Training](https://www.mindhive.my/ai-training/): ChatGPT, Claude, Gemini, and Microsoft 365 Copilot workflows for daily work.
 
 ## Products built by Mindhive
 
