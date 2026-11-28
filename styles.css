@@ -1115,6 +1115,15 @@ h3 {
   color: var(--slate);
 }
 
+.proof-metric strong.stat__num--amber {
+  color: var(--amber-text);
+}
+
+.stat__star {
+  color: var(--amber-text);
+  letter-spacing: 1px;
+}
+
 /* --------------------------------------------------------------------------
    Testimonials
    -------------------------------------------------------------------------- */
